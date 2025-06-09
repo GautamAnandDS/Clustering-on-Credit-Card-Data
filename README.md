@@ -1,7 +1,11 @@
-# Credit Card Customer Segmentation
+# American Express Customer Segmentation
+![image](https://github.com/user-attachments/assets/9eaed35c-cee2-4c66-b6af-5e8f5368f6bf)
+
 
 ## 📊 Project Overview
-This project focuses on clustering credit card customers into distinct segments based on their spending and repayment behaviors. The goal is to help financial institutions better understand their customer base, mitigate credit risk, and personalize their offerings. By leveraging unsupervised machine learning techniques, we identified actionable insights to optimize credit portfolio management.
+* This project focuses on clustering credit card customers into distinct segments based on their spending and repayment behaviors. 
+* The goal is to help American Express better understand their customer base, mitigate credit risk, and personalize their offerings.
+* By leveraging unsupervised machine learning techniques, we identified actionable insights to optimize credit portfolio management.
 
 ## 🔥 Problem Statement
 Financial institutions face challenges in identifying high-risk customers and offering tailored credit solutions. Our task was to segment credit card holders based on their transaction patterns, helping banks:
